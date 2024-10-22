@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: {{ .Chart.Name }}-bg-color
-data:
-  BG_COLOR: {{ .Values.bgColor }}  
-

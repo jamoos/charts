@@ -3,12 +3,12 @@ entries:
   kweather-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-22T08:46:59.344661+03:00"
+    created: "2024-10-22T08:55:00.17645+03:00"
     description: A Helm chart for Kubernetes
-    digest: 9f77c23fb64a1611b2254ed03256944a5470b3762ee9bab680b5e63da9ca8968
+    digest: 7998174fec7809902eca95c7fb912b8092f0361a34437c83fdb1ad401d41ab5f
     name: kweather-chart
     type: application
     urls:
-    - https://jamoos.github.io/charts/kweather-chart/kweather-chart-0.1.0.tgz
+    - https://jamoos.github.io/charts/kweather-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-22T08:46:59.341042+03:00"
+generated: "2024-10-22T08:55:00.17516+03:00"
